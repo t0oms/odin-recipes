@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(255,255,230);
+}
+
+* {
+  font-family: "Courier New";
+  color: rgb(30,150,255);
+}
+
+h1 {
+  font-size: 100px;
+  color: rgb(25,25,112);
+}
+
+h3 {
+  font-size: 40px;
+  color: rgb(25,25,112);
+}
+
+.description {
+  font-size: 20px;
+}
+
+img {
+  height: auto;
+  width: auto;
+}
